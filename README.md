@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/tricker3333/Portfolio_Yash)
 ![GitHub stars](https://img.shields.io/github/stars/tricker3333/Portfolio_Yash?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/tricker3333/Portfolio_Yash?style=social)
-[![LinkedIn Follow](https://img.shields.io/static/v1?label=LinkedIn&message=Follow&color=0A66C2&style=social)](https://www.linkedin.com/in/yashkuhswaha333)
+[![LinkedIn Follow](https://img.shields.io/static/v1?label=LinkedIn&message=Follow&color=0A66C2&style=social)](https://www.linkedin.com/in/yashkushwaha333/)
 
 
 This Portfolio is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
